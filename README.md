@@ -11,11 +11,11 @@ Using the random forest algorithm, we developed four models for predicting alpha
 
 ### To redo our data preparation, the following data is needed:
 #### Switzerland
-* Avalanche dataset from Switzerland, contact Yves Bühler at SLF.
+* Avalanche dataset from Switzerland, contact Yves Bühler at SLF (https://www.slf.ch/en/index.html).
 * SwissALTI3D_5m from SwissTopo for all of Switzerland
 
 #### Norway
-* Avalanche dataset from Norway, contact Markus Eckerstorfer at NORCE.
+* Avalanche dataset from Norway, contact Markus Eckerstorfer at NORCE (https://www.norceresearch.no/).
 * National 10m DEM of Norway (https://hoydedata.no/LaserInnsyn/)
 	
 ## Data preparation
