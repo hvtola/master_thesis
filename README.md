@@ -9,7 +9,7 @@
 ## Introduction
 Using the random forest algorithm, we developed four models for predicting alpha-angle runout from topographic parameters.
 
-### To redo our analysis', the following data is needed:
+### To redo data preparation, the following data is needed:
 #### Switzerland
 * Avalanche dataset from Switzerland, contact Yves Bühler at SLF.
 * SwissALTI3D_5m from SwissTopo for all of Switzerland
