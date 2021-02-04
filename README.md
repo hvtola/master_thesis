@@ -28,7 +28,7 @@ Calculate topographic parameters
 * R, T and D can be calulcated using **calculate_avalanche_confinement.py** (ESRI software is needed).
 * alpha, beta, theta can be calculated using **array_calculate_alpha_beta.ipynb**.
 * path_type can be calculated using **array_KMeans_clustering.ipynb**.
-* L_flow/linear, P, H, aspect, d_size, alt_min/max, is either given in the avalanche dataset or can be extracted using simple GIS tools.
+* L_flow/linear, P, H, aspect, d_size, alt_min/max, are either given in the avalanche dataset or can be extracted using simple GIS tools.
 * Hy'' and P/L_flow can be calculated from the topographic parameters above.
 ### Norway
 * Calculate potential release areas (PRA, https://github.com/jocha81/Avalanche-release)
