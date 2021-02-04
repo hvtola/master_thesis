@@ -23,7 +23,6 @@ Using the random forest algorithm, we developed four models for predicting alpha
 * Calculate the centerline of each avalanche using **calculate_centerline.py** (ESRI software is needed).
 * Use ESRI ArcMap tool *Generate Points Along Lines* to generate a point every 5 meter of each avalanche centerline. Each point must include avalanche reference ID and elevation.
 * Resample the data to 100 z-values for each avalanche using **centerline_to_array.ipynb**.
-Calculate topographic parameters
 * y'' can be calculated using **point_calculate_second_derivative**
 * R, T and D can be calulcated using **calculate_avalanche_confinement.py** (ESRI software is needed).
 * alpha, beta, theta can be calculated using **array_calculate_alpha_beta.ipynb**.
